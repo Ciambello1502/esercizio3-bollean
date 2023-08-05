@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+header{
+    background-color: rgba(211, 211, 211, 1);
+    height: auto;
+    text-align: center;
+}
+
+h1{
+    font-size: 20px;
+}
+
+img{
+    width: 55px;
+    margin: 10px;
+    border-radius: 25%;
+    border-style: solid;
+}
+
+hr{
+    border-color:orange;
+}
+main{
+    margin: 10px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(255, 165, 0);
+}
+
+
+footer{
+    background-color:rgb(74, 127, 98, 0.1) ;
+    margin: 10px;
+}
